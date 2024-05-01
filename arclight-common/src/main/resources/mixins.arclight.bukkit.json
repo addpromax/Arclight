@@ -48,6 +48,7 @@
     "PotionEffectTypeMixin",
     "RecipeIteratorMixin",
     "Registry_SimpleRegistryMixin",
+    "StandardMessengerMixin",
     "WatchdogThreadMixin"
   ]
 }
